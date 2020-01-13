@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b817569-ba9e-4dfe-aab6-6d6d083196b4" name="Default Changelist" comment="" />
+    <list default="true" id="1b817569-ba9e-4dfe-aab6-6d6d083196b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +13,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,12 +28,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1WLs8lQChleu0glDpU3ZIdfcMpu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -81,22 +89,22 @@
       <screen x="0" y="27" width="1920" height="998" />
     </state>
     <state x="665" y="195" width="575" height="657" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1920.998@0.27.1920.998" timestamp="1578940154293" />
-    <state width="1874" height="260" key="GridCell.Tab.0.bottom" timestamp="1578944843180">
+    <state width="1874" height="260" key="GridCell.Tab.0.bottom" timestamp="1578946042755">
       <screen x="0" y="27" width="1920" height="998" />
     </state>
-    <state width="1874" height="260" key="GridCell.Tab.0.bottom/0.27.1920.998@0.27.1920.998" timestamp="1578944843180" />
-    <state width="1874" height="260" key="GridCell.Tab.0.center" timestamp="1578944843179">
+    <state width="1874" height="260" key="GridCell.Tab.0.bottom/0.27.1920.998@0.27.1920.998" timestamp="1578946042755" />
+    <state width="1874" height="260" key="GridCell.Tab.0.center" timestamp="1578946042755">
       <screen x="0" y="27" width="1920" height="998" />
     </state>
-    <state width="1874" height="260" key="GridCell.Tab.0.center/0.27.1920.998@0.27.1920.998" timestamp="1578944843179" />
-    <state width="1874" height="260" key="GridCell.Tab.0.left" timestamp="1578944843179">
+    <state width="1874" height="260" key="GridCell.Tab.0.center/0.27.1920.998@0.27.1920.998" timestamp="1578946042755" />
+    <state width="1874" height="260" key="GridCell.Tab.0.left" timestamp="1578946042755">
       <screen x="0" y="27" width="1920" height="998" />
     </state>
-    <state width="1874" height="260" key="GridCell.Tab.0.left/0.27.1920.998@0.27.1920.998" timestamp="1578944843179" />
-    <state width="1874" height="260" key="GridCell.Tab.0.right" timestamp="1578944843179">
+    <state width="1874" height="260" key="GridCell.Tab.0.left/0.27.1920.998@0.27.1920.998" timestamp="1578946042755" />
+    <state width="1874" height="260" key="GridCell.Tab.0.right" timestamp="1578946042755">
       <screen x="0" y="27" width="1920" height="998" />
     </state>
-    <state width="1874" height="260" key="GridCell.Tab.0.right/0.27.1920.998@0.27.1920.998" timestamp="1578944843179" />
+    <state width="1874" height="260" key="GridCell.Tab.0.right/0.27.1920.998@0.27.1920.998" timestamp="1578946042755" />
     <state x="493" y="184" width="924" height="682" key="Maven.ArtifactSearchDialog" timestamp="1578940629355">
       <screen x="0" y="27" width="1920" height="998" />
     </state>
