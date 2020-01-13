@@ -1,0 +1,10 @@
+scripts/ext_images/
+scripts/extracted/
+scripts/ocr-text/
+scripts/pdf/
+scripts/rules/
+scripts/Sample_1_IIT.csv
+
+build/
+tomcat.8080/
+target/

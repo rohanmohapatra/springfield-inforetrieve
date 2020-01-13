@@ -1,0 +1,131 @@
+body{
+        margin: 0;
+        background-image: url(../img/114291-text-editor.png);
+        background-image: linear-gradient(to bottom, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.7) 80%),url(../imgs/loginbgr.png);
+        background-attachment: fixed;       
+}
+/*Content*/
+input[type='text']{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 15px;
+    border:none;
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+}
+input[type='password']{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 15px;
+    border:none;
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+}
+input[type='email']{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 15px;
+    border:none;
+    border-bottom: 1px solid grey;
+    /*padding-bottom: 5px;*/
+
+}
+input[type='text']:focus{
+    outline:0 !important;
+}
+input[type='password']:focus{
+    outline:0 !important;
+}
+input[type='email']:focus{
+    outline:0 !important;
+}
+input.submit{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+    width:50%; 
+    height:10%; 
+    text-align:center;  
+    border: 0;
+    background-color: #0A2746; 
+    color:white; 
+    border-radius:2px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2),0 3px 15px 0 rgba(0,0,0,0.19);
+}
+input.submit:hover{
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2),0 9px 15px 0 rgba(0,0,0,0.19);
+}
+.value{
+        border:0;
+        font-family: 'Montserrat',sans-serif;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 600;
+        background: white; 
+        color: gray;
+        padding-top:15px;
+        padding-right: 60px;
+        padding-left: 60px;
+        cursor: pointer;
+        padding-bottom: 20px;
+}
+
+.value:focus{
+    outline:0 !important;
+
+}
+
+@keyframes animationDiv{
+    from {opacity: 0;}
+    to {opacity: 1;}
+    
+}
+.signup{
+    display: none;
+    animation-name: animationDiv;
+    animation-duration: 1s;
+    
+}
+.login{
+    display: block;
+    animation-name: animationDiv;
+    animation-duration: 1s;
+    
+}
+input[type='email']{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 15px;
+}
+.loginup{
+        height: 450px;
+        margin-top: -50px;
+        margin-bottom: 50px;
+}
+.choice
+{
+	width: 30%;
+	height: 90%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	background-color: white;
+	color: grey;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+/*Content Ends here*/
+
+.subscribe
+{
+	font-family: 'Montserrat',sans-serif;
+	background-color: black;
+	width: 100%;
+	height: 340px;
+	color:  white;
+	font-size: 30px;
+ 
+}
+/*Subscibe section Styling Ends here*/
+/*Footer Styling*/
+.footer{
+        background-color: black;
+        
+     
+        height: 190px;
+}
+/*Footer Styling Ends Here*/
